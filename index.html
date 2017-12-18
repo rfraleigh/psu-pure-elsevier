@@ -11,7 +11,7 @@
 }
 
 .node--internal circle {
-  fill: #555;
+  fill: black;
 }
 
 .node--internal text {
@@ -53,8 +53,8 @@ var tree = d3.tree()
 d3.csv("org_tree.csv", function(error, data) {
   if (error) throw error;
 
-  var root = tree(stratify(data));
 
+  var root = tree(stratify(data));
   var link = g.selectAll(".link")
     .data(root.links())
     .enter().append("path")
@@ -74,14 +74,46 @@ d3.csv("org_tree.csv", function(error, data) {
 
   node.append("text")
       .attr("dy", "0.31em")
-      .attr("x", function(d) { return d.x < Math.PI === !d.children ? 6 : -6; })//separation from circle to label
+      .attr("x", function(d) { return d.x < Math.PI === !d.children ? 10 : -10; })//separation from circle to label
       .attr("text-anchor", function(d) { return d.x < Math.PI === !d.children ? "start" : "end"; })
       .attr("transform", function(d) { return "rotate(" + (d.x < Math.PI ? d.x - Math.PI / 2 : d.x + Math.PI / 2) * 180 / Math.PI + ")"; })
-      .text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1); });
+      //.text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1); });
+      .text(function(d) {return d.data.name; });
+
+  d3.selectAll('g.node.node--internal text')
+      .call(wrap,75)
 });
+
 
 function radialPoint(x, y) {
   return [(y = +y) * Math.cos(x -= Math.PI / 2), y * Math.sin(x)];
+}
+
+function wrap(text, width,offset) {
+  text.each(function() {
+    var text = d3.select(this),
+        offset =d3.select(this)['_groups'][0][0].attributes['x'].value,
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.1, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", offset).attr("y", y).attr("dy", dy + "em");
+                console.log(d3.select(this)['_groups'][0][0].attributes);
+
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop();
+        tspan.text(line.join(" "));
+        line = [word];
+        tspan = text.append("tspan").attr("x", offset).attr("y", 2*y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+      }
+    }
+  });
 }
 
 </script>
