@@ -1,0 +1,259 @@
+uuid,type,name,parent_name,parent_type,parent_uuid,child_name,read
+692237a4-e66a-413f-8ea9-40e0d30229c1,Interdisiplinary Research Units,Penn State Clinical and Translational Science Institute (CTSI),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Penn_State_Clinical_and_Translational_Science_Institute_(CTSI),1
+68573cdc-7eb1-4178-88f2-65095fbe4a50,College,Smeal College of Business,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,Smeal_College_of_Business,1
+f09adc6a-1843-4d41-91fc-5f5538d200a9,College,College of Nursing,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Nursing,1
+726afca4-77c1-4859-bd5c-36abb8d7129a,Interdisiplinary Research Units,Social Science Research Institute (SSRI),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Social_Science_Research_Institute_(SSRI),1
+1081783b-ca65-43e7-9db0-d1d68657e3b2,College,College of Information Sciences and Technology,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Information_Sciences_and_Technology,1
+c9234067-389e-4de1-a5cb-91dbe0173964,Interdisiplinary Research Units,Penn State Cancer Institute,Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Penn_State_Cancer_Institute,1
+53547b8c-c40d-4fff-828d-534accc133cb,Interdisiplinary Research Units,Institutes of Energy and the Environment (IEE),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Institutes_of_Energy_and_the_Environment_(IEE),1
+159b0439-2029-4220-898b-60a7b9dce8d9,Interdisiplinary Research Units,Materials Research Institute (MRI),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Materials_Research_Institute_(MRI),1
+3ac727a3-e37a-4861-80ee-3143a3768077,College,Eberly College of Science,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,Eberly_College_of_Science,1
+0bab3c92-bbc2-478f-a85e-4c8e25cd0631,College,College of Health & Human Development,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Health_&_Human_Development,1
+0a3aefc6-c17a-429a-be9d-adb61ad8c0df,College,Donald P. Bellisario College of Communications,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,Donald_P_Bellisario_College_of_Communications,1
+a3528568-5c47-4da0-8411-4c451622a825,College,College of the Liberal Arts,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_the_Liberal_Arts,1
+f4d22926-7c93-460e-9dca-f7e4960dc574,College,College of Education,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Education,1
+0661c979-3e35-4031-a5b3-31c2aba04acf,College,College of Arts & Architecture,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Arts_&_Architecture,1
+567051d4-284a-4418-8819-1a29702d943f,College,College of Agricultural Sciences,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Agricultural_Sciences,1
+55a99c3d-a603-43e8-9544-e108fd52f89b,Interdisiplinary Research Units,Institute for CyberScience (ICS),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Institute_for_CyberScience_(ICS),1
+930f50d2-34a9-442f-8d90-3754e6e4b9a1,College,College of Earth & Mineral Sciences,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Earth_&_Mineral_Sciences,1
+47bf26c5-18c0-45d1-8aab-9f4597321764,College,College of Engineering,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Engineering,1
+59c96941-0a58-484f-83b5-9aa47a816a88,Libraries,University Libraries - University Park,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,University_Libraries_-_University_Park,1
+d0a312ab-af2b-4bd8-8ee1-2d1f7e107d94,Interdisiplinary Research Units,Huck Institutes of the Life Sciences,Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Huck_Institutes_of_the_Life_Sciences,1
+db81c269-b734-4851-86b1-43298bfa9556,College,School of International Affairs,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,School_of_International_Affairs,1
+cd5cd203-da78-4b76-9600-f0aa474b456d,University,The Pennsylvania State University,nan,,,The_Pennsylvania_State_University,1
+72af714d-97dd-4f30-afb7-f0f1183ca319,Campus,Penn State Altoona,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Altoona,1
+d4b355cc-e30b-4f02-a041-3d0a51995777,Campus,Penn State Extension,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Penn_State_Extension,1
+3a0518c4-039a-4ad9-93b3-1cc53df99b97,Campus,Penn State Lehigh Valley,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Lehigh_Valley,1
+981e50a6-849f-40e7-ac37-294561f5c7da,Campus,"Penn State Erie, The Behrend College",The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,"Penn_State_Erie,_The_Behrend_College",1
+1ff46d1c-e9bc-4689-bd99-c7ea528cdf3a,Campus,Penn State Berks,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Berks,1
+d6618b66-ba68-401f-95d7-79c93fdabedb,Campus,Penn State Beaver,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Beaver,1
+752fc257-c7c5-4d58-94cb-ef764f9c5cb9,Campus,Penn State Harrisburg,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Harrisburg,1
+ec793460-7c76-4242-9ffb-13626cc40696,Campus,Penn State Brandywine,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Brandywine,1
+0173f16e-14ab-46ae-a8af-c3d160cc4615,Campus,Dickinson Law (Carlisle),The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Dickinson_Law_(Carlisle),1
+8afb017a-5c21-4bc9-af3d-047ee5674f17,Campus,Penn State DuBois,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_DuBois,1
+7c8713df-4029-477c-909d-bc4877731349,Campus,"Penn State Fayette, The Eberly Campus",The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,"Penn_State_Fayette,_The_Eberly_Campus",1
+481947bd-5283-4ce7-b11f-cf53aa44370a,Campus,Penn State Hazleton,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Hazleton,1
+1b0f11a9-3896-4d5f-a266-a3407b0d116b,Campus,Penn State Great Valley,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Great_Valley,1
+f618c535-bb74-4f36-9165-89e2161b34ad,Campus,Penn State Mont Alto,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Mont_Alto,1
+eb526026-39ca-45b1-9389-df6ad3de4f66,Campus,Penn State Greater Allegheny,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Greater_Allegheny,1
+dab506e5-2e04-434c-910f-53a06ad1450d,Campus,Penn State New Kensington,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_New_Kensington,1
+6502a6d6-c29c-4b88-ae90-bf3352b53328,Campus,Penn State Abington,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Abington,1
+3e650b91-e711-40ba-8590-45b728a42d4b,Campus,Penn State Schuylkill,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Schuylkill,1
+aa48210e-713f-4955-aec0-6db0f07e1627,Campus,Penn State Shenango,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Shenango,1
+63a0013d-7ac9-4007-bea5-fa60a60776f7,Campus,Penn State University Park,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_University_Park,1
+01ad59e8-e298-4665-84a4-9250f3a7de72,Campus,Penn State Wilkes-Barre,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Wilkes-Barre,1
+d2fcd5bc-41bc-404c-845c-bc2d61b3e8e0,Campus,Penn State Worthington Scranton,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_Worthington_Scranton,1
+986b56e2-cf71-4ebc-8ee9-d226b25fc2c8,Campus,Penn State York,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Penn_State_York,1
+d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Interdisiplinary Research Units,Interdisciplinary Institutes and Units,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,Interdisciplinary_Institutes_and_Units,1
+a4be95f8-db73-424b-b264-00d728508c77,Department,Office of the Vice President for Research,Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,Office_of_the_Vice_President_for_Research,1
+c7e76643-4221-434d-9d0a-fea1e5fe6642,College,Penn State Law (University Park),Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,Penn_State_Law_(University_Park),1
+caa8facf-31b0-40b1-b37b-8c119000efa0,Libraries,Beaver Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Beaver_Campus_Library,1
+b8941105-e61a-4e4e-b9ec-efbf5c562e97,Campus,University Libraries,The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,University_Libraries,1
+5270f768-a58f-49ec-984c-0a85c1d135b1,Interdisiplinary Research Units,Applied Research Laboratory (ARL),Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Applied_Research_Laboratory_(ARL),1
+3e1069a0-f31b-4d64-a92a-9a5dfd6b467c,Department,Division of Arts & Humanities (Altoona),Penn_State_Altoona,Campus,72af714d-97dd-4f30-afb7-f0f1183ca319,Division_of_Arts_&_Humanities_(Altoona),1
+42998608-d8a8-4544-9036-716939ce6d14,Department,"Division of Business, Engineering, and Information Sciences & Technology (Altoona)",Penn_State_Altoona,Campus,72af714d-97dd-4f30-afb7-f0f1183ca319,"Division_of_Business,_Engineering,_and_Information_Sciences_&_Technology_(Altoona)",1
+b4084776-aa3a-49b2-aa1b-cabc6edef270,Department,"Division of Education, Human Development & Social Sciences (Altoona)",Penn_State_Altoona,Campus,72af714d-97dd-4f30-afb7-f0f1183ca319,"Division_of_Education,_Human_Development_&_Social_Sciences_(Altoona)",1
+bce6c8fa-bff0-4bea-a7ce-56962078becd,Department,Division of Mathematics & Natural Sciences (Altoona),Penn_State_Altoona,Campus,72af714d-97dd-4f30-afb7-f0f1183ca319,Division_of_Mathematics_&_Natural_Sciences_(Altoona),1
+25f9c99c-e834-4436-9252-3126c643742a,Libraries,Robert E. Eiche Library (Altoona),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Robert_E_Eiche_Library_(Altoona),1
+035b9c61-c6dd-46d8-b99f-9c263633bdb0,Libraries,Lehigh Valley Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Lehigh_Valley_Campus_Library,1
+3c205440-18e4-4e7f-8e36-df10cc6b0242,Libraries,John M. Lilley Library (Behrend),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,John_M_Lilley_Library_(Behrend),1
+aab27018-536a-422e-a5e0-f8bdfcfd0f31,Department,Black School of Business (Behrend),"Penn_State_Erie,_The_Behrend_College",Campus,981e50a6-849f-40e7-ac37-294561f5c7da,Black_School_of_Business_(Behrend),1
+b76b407b-01f0-4f24-967e-2884168c3770,Department,School of Engineering (Behrend),"Penn_State_Erie,_The_Behrend_College",Campus,981e50a6-849f-40e7-ac37-294561f5c7da,School_of_Engineering_(Behrend),1
+556fba32-86a0-4049-af3e-6be43266237f,Department,School of Humanities & Social Sciences (Behrend),"Penn_State_Erie,_The_Behrend_College",Campus,981e50a6-849f-40e7-ac37-294561f5c7da,School_of_Humanities_&_Social_Sciences_(Behrend),1
+937d604c-a16a-499d-80eb-bd6f931a343c,Department,School of Science (Behrend),"Penn_State_Erie,_The_Behrend_College",Campus,981e50a6-849f-40e7-ac37-294561f5c7da,School_of_Science_(Behrend),1
+6d758a14-1392-42aa-9eb4-9820c5048652,Department,"Division of Engineering, Business & Computing (Berks)",Penn_State_Berks,Campus,1ff46d1c-e9bc-4689-bd99-c7ea528cdf3a,"Division_of_Engineering,_Business_&_Computing_(Berks)",1
+0e34971f-9824-4521-81ec-8f33d3f41728,Department,"Division of Humanities, Arts and Social Sciences (Berks)",Penn_State_Berks,Campus,1ff46d1c-e9bc-4689-bd99-c7ea528cdf3a,"Division_of_Humanities,_Arts_and_Social_Sciences_(Berks)",1
+e84754ba-9594-4384-935e-5fef5342e62f,Department,Division of Science (Berks),Penn_State_Berks,Campus,1ff46d1c-e9bc-4689-bd99-c7ea528cdf3a,Division_of_Science_(Berks),1
+66716fc7-3b80-41f6-a98e-b658b3f47086,Libraries,Berks Thun Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Berks_Thun_Library,1
+a8bd5f78-7332-4009-8588-23c18eb05802,Libraries,Penn State Harrisburg Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Penn_State_Harrisburg_Library,1
+b98de07c-a9ff-4cfd-9f2e-542cfbbfe732,Department,School of Behavioral Sciences & Education (Harrisburg),Penn_State_Harrisburg,Campus,752fc257-c7c5-4d58-94cb-ef764f9c5cb9,School_of_Behavioral_Sciences_&_Education_(Harrisburg),1
+0bf3b875-321c-4ef3-82f5-3e31a604c78f,Department,School of Business Administration (Harrisburg),Penn_State_Harrisburg,Campus,752fc257-c7c5-4d58-94cb-ef764f9c5cb9,School_of_Business_Administration_(Harrisburg),1
+9a2c850b-3a78-4076-997d-dcbcf7352101,Department,School of Humanities (Harrisburg),Penn_State_Harrisburg,Campus,752fc257-c7c5-4d58-94cb-ef764f9c5cb9,School_of_Humanities_(Harrisburg),1
+7a9e103a-ab10-4aa2-b019-a8baad1b04d1,Department,School of Public Affairs (Harrisburg),Penn_State_Harrisburg,Campus,752fc257-c7c5-4d58-94cb-ef764f9c5cb9,School_of_Public_Affairs_(Harrisburg),1
+ed5e75c7-55f9-4a49-b1fa-634631d3bc05,Department,"School of Science, Engineering & Technology (Harrisburg)",Penn_State_Harrisburg,Campus,752fc257-c7c5-4d58-94cb-ef764f9c5cb9,"School_of_Science,_Engineering_&_Technology_(Harrisburg)",1
+73b99ebe-8a89-44d9-b3c9-adba9c71d891,Libraries,John D. Vairo Library (Brandywine),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,John_D_Vairo_Library_(Brandywine),1
+e80434ef-d208-4d4b-bcbd-990e18570a84,Libraries,Dickinson School of Law Library at Carlisle,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Dickinson_School_of_Law_Library_at_Carlisle,1
+33588e8a-ced8-4263-931a-d51d1943185b,Libraries,Hazleton Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Hazleton_Campus_Library,1
+938d4722-a678-4dd0-b41f-932a13638923,Department,Department of Anesthesiology and Perioperative Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Anesthesiology_and_Perioperative_Medicine,1
+bd7e24e4-2404-4f9c-b905-4853ec4b858a,Department,Department of Biochemistry & Molecular Biology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Biochemistry_&_Molecular_Biology,1
+bd1d1263-4d07-4f0b-b751-56cd91db42dc,Department,Department of Comparative Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Comparative_Medicine,1
+3ec88b0a-f814-4fbc-a22c-0b89468ceda7,Department,Department of Cellular and Molecular Physiology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Cellular_and_Molecular_Physiology,1
+fd2cca66-c958-4ced-885a-41c9f662d37d,Department,Department of Dermatology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Dermatology,1
+0a68765b-5606-408f-aac3-6053b4a78287,Department,Department of Emergency Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Emergency_Medicine,1
+5d0476ee-69f7-4866-ad0b-420e067bb176,Department,Department of Family and Community Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Family_and_Community_Medicine,1
+d376bc77-9ac6-4b4c-9a7a-4dbb1366a4b6,Department,Department of Humanities,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Humanities,1
+815df63f-68b6-4192-a266-844796f4f9c7,Department,Department of Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Medicine,1
+9e2a4ce5-e355-4785-8c63-4cb1540350cf,Department,Department of Microbiology & Immunology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Microbiology_&_Immunology,1
+4c11a05a-2520-469e-9505-3bc3ace6a3cc,Department,Department of Neurology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Neurology,1
+2afee57f-9b12-4960-8cb9-4ce11f2146f4,Department,Department of Neural & Behavioral Sciences,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Neural_&_Behavioral_Sciences,1
+1e71f9c9-75b3-4dd0-b055-1f0cd8f4f1be,Department,Department of Neurosurgery,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Neurosurgery,1
+5765d623-f064-4b29-b41d-5ad32871f1bf,Department,Department of Obstetrics and Gynecology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Obstetrics_and_Gynecology,1
+bf542059-2e84-438f-b26e-2fad574bc79e,Department,Department of Ophthalmology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Ophthalmology,1
+71ad1706-c0ce-4315-aef4-44e093122129,Department,Department of Orthopaedics and Rehabilitation,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Orthopaedics_and_Rehabilitation,1
+fa5f3a5d-7bf8-41ab-947a-c2d808bbc3d1,Department,Department of Pathology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Pathology,1
+8d55641e-f2d7-4448-8046-ef0672dbee24,Department,Department of Pediatrics,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Pediatrics,1
+74bbe8b3-f285-42c3-b0f9-5d5cade40fdf,Department,Department of Pharmacology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Pharmacology,1
+029d3812-bb21-4779-adf7-ecfac0bdfc53,Department,Department of Public Health Sciences,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Public_Health_Sciences,1
+77d82496-96cb-42f3-8677-b504facaf8d9,Department,Department of Physical Medicine and Rehabilitation,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Physical_Medicine_and_Rehabilitation,1
+64f82ab2-0fbe-4472-a134-3326575412c3,Department,Penn State Heart and Vascular Institute,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Penn_State_Heart_and_Vascular_Institute,1
+174698b7-7070-4a21-b15b-ef6f76e17df5,Department,Department of Psychiatry,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Psychiatry,1
+7d3bb77e-864a-4203-a111-6e83eb7c0ba4,Department,Department of Radiology,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Radiology,1
+2c00726e-05f2-4f6e-9477-8aad0dbf4098,Department,Department of Surgery,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Department_of_Surgery,1
+99e28d86-c688-4e1e-b576-83663d5bf747,Libraries,Harrell Health Sciences Library - Hershey,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Harrell_Health_Sciences_Library_-_Hershey,1
+ef616c54-b1ff-4502-9725-d181a4cc41dd,Department,Engineering Division (Great Valley),Penn_State_Great_Valley,Campus,1b0f11a9-3896-4d5f-a266-a3407b0d116b,Engineering_Division_(Great_Valley),1
+4702eaba-7515-469a-aba5-eaf70bab5292,Department,Management Division (Great Valley),Penn_State_Great_Valley,Campus,1b0f11a9-3896-4d5f-a266-a3407b0d116b,Management_Division_(Great_Valley),1
+eab2b6aa-319a-4be4-a54d-d4a833ac1e2b,Libraries,Mont Alto Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Mont_Alto_Campus_Library,1
+a864ae1f-5aaa-460a-9914-f89b541d7744,Libraries,J. Clarence Kelly Library (Greater Allegheny),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,J_Clarence_Kelly_Library_(Greater_Allegheny),1
+af527c4f-06ec-4df6-a925-3e5dfaf98960,Libraries,Elisabeth S. Blissel Library (New Kensington),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Elisabeth_S_Blissel_Library_(New_Kensington),1
+d090413b-149e-4e4c-b2fd-8a0c2478246c,Department,Division of Arts & Humanities (Abington),Penn_State_Abington,Campus,6502a6d6-c29c-4b88-ae90-bf3352b53328,Division_of_Arts_&_Humanities_(Abington),1
+68a8c47b-618d-4bcf-aaf0-8b3b1feeaadf,Department,Division of Engineering and Science (Abington),Penn_State_Abington,Campus,6502a6d6-c29c-4b88-ae90-bf3352b53328,Division_of_Engineering_and_Science_(Abington),1
+d99d2131-678f-41c3-83a2-e92f92797482,Department,Division of Social Sciences (Abington),Penn_State_Abington,Campus,6502a6d6-c29c-4b88-ae90-bf3352b53328,Division_of_Social_Sciences_(Abington),1
+74909a6a-9702-49b6-94e2-1613abb24361,Libraries,Abington Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Abington_Campus_Library,1
+ad36705d-0ffe-40ea-bb55-1fb2bfe6fb01,Libraries,Ciletti Memorial Library (Schuylkill),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Ciletti_Memorial_Library_(Schuylkill),1
+d22fd9a1-06cf-41c9-9b6c-d82d252f7cbb,Libraries,Lartz Memorial Library (Shenango),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Lartz_Memorial_Library_(Shenango),1
+3f17257d-3110-45f6-b9a0-42e6b4deec2f,Libraries,Nesbitt Library (Wilkes-Barre),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Nesbitt_Library_(Wilkes-Barre),1
+e0a90990-8734-42c3-a705-7338bbea80ed,Libraries,Worthington Scranton Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Worthington_Scranton_Campus_Library,1
+2f787304-3c41-4253-a552-dd6603089bef,Libraries,Lee R. Glatfelter Library (York),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Lee_R_Glatfelter_Library_(York),1
+a0a40e3d-9bda-4229-bdc7-183ce8cb98ec,Department,Department of Art History,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,Department_of_Art_History,1
+a58b76da-6a9c-4546-871c-656a9cb789cc,Department,Department of Architecture,Stuckeman_School_of_Architecture_and_Landscape_Architecture,Department,e2126559-7269-4aa6-8fa8-cc0b650b0ac7,Department_of_Architecture,1
+559690d7-274c-458c-9edb-68e1c7255788,Department,Department of Landscape Architecture,Stuckeman_School_of_Architecture_and_Landscape_Architecture,Department,e2126559-7269-4aa6-8fa8-cc0b650b0ac7,Department_of_Landscape_Architecture,1
+36360fa7-425d-4c60-8d54-3db55ee57805,Department,Department of Graphic Design,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,Department_of_Graphic_Design,1
+7a4bf253-8c29-4f65-835c-6c20c6fd3b2e,Department,School of Music,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,School_of_Music,1
+e2126559-7269-4aa6-8fa8-cc0b650b0ac7,Department,Stuckeman School of Architecture and Landscape Architecture,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,Stuckeman_School_of_Architecture_and_Landscape_Architecture,1
+ded5d910-75ff-43bb-8d70-51922a68d3c8,Department,School of Theatre,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,School_of_Theatre,1
+50968e9a-5f9d-4e34-8f18-c9fb1c29ef2c,Department,School of Visual Arts,College_of_Arts_&_Architecture,College,0661c979-3e35-4031-a5b3-31c2aba04acf,School_of_Visual_Arts,1
+4e8851b0-3aff-4a55-8ba6-391e941ebcff,Department,Agricultural & Biological Engineering,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Agricultural_&_Biological_Engineering,1
+c415fc98-713e-4ac6-b29f-cf00b05842ec,Department,"Agricultural Economics, Sociology and Education",College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,"Agricultural_Economics,_Sociology_and_Education",1
+af54dc89-8d96-40a9-9c4a-aadcedd76975,Department,Animal Science,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Animal_Science,1
+83782898-35ee-46e8-a406-6c9a3f1a8e00,Department,Entomology,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Entomology,1
+ea118765-c978-4d93-83e5-e6afc3d01089,Department,Ecosystem Science and Management,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Ecosystem_Science_and_Management,1
+a4add10a-78a5-4763-a026-3f6b7984a59a,Department,Food Science,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Food_Science,1
+4de4f25b-9bb7-4b79-aa36-4c4da2f5a435,Department,Plant Pathology and Environmental Microbiology,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Plant_Pathology_and_Environmental_Microbiology,1
+ab021b5a-4085-4fdd-9e38-7afc520f5a78,Department,Plant Science,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Plant_Science,1
+4f7257ce-015a-4a14-9d49-526597eed9bd,Department,Veterinary and Biomedical Sciences,College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,Veterinary_and_Biomedical_Sciences,1
+3492841c-f00c-4b71-bc15-c08ad5df2dc5,Department,"Office of International Programs, College of Agriculture",College_of_Agricultural_Sciences,College,567051d4-284a-4418-8819-1a29702d943f,"Office_of_International_Programs,_College_of_Agriculture",1
+b8855ae8-1d1d-4678-bbbf-34740b6eb8da,Department,Center for Supply Chain Research,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Center_for_Supply_Chain_Research,1
+8764bfef-66dd-4000-b2f2-f2da332574b1,Department,Accounting,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Accounting,1
+013cb16e-8d62-478b-8eab-2144e02f115e,Department,Finance,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Finance,1
+370d05b4-92c9-43a3-979a-3e435d8f27c7,Department,Marketing,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Marketing,1
+db3fccea-ab8a-45b5-8e3c-2eaf384baaf7,Department,Management and Organization,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Management_and_Organization,1
+b73f3098-78c8-4890-83bf-d5e8a4d4b85b,Department,Risk Management,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Risk_Management,1
+b24ab774-2e23-4c9a-bbce-918079840bdc,Department,Supply Chain and Information Systems,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Supply_Chain_and_Information_Systems,1
+67f7901e-4d48-4e6e-988b-6aca87132784,Department,Institute for the Study of Business Markets,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Institute_for_the_Study_of_Business_Markets,1
+c9a87a70-5d74-4392-b50d-13ad9bca3ec0,Department,Penn State Executive Education Programs,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,Penn_State_Executive_Education_Programs,1
+6d787549-c811-4227-86e4-6749e1ea83cc,Department,MBA Program,Smeal_College_of_Business,College,68573cdc-7eb1-4178-88f2-65095fbe4a50,MBA_Program,1
+5e8b75ed-2e7f-4447-8a75-738acf36b8f3,Department,Advertising and Public Relations,Donald_P_Bellisario_College_of_Communications,College,0a3aefc6-c17a-429a-be9d-adb61ad8c0df,Advertising_and_Public_Relations,1
+d53ab7c7-4084-4600-8fa5-dd4b88a169f5,Department,Film-Video and Media Studies,Donald_P_Bellisario_College_of_Communications,College,0a3aefc6-c17a-429a-be9d-adb61ad8c0df,Film-Video_and_Media_Studies,1
+2f24c69d-6d55-4abf-a444-23ce44250c3b,Department,Journalism,Donald_P_Bellisario_College_of_Communications,College,0a3aefc6-c17a-429a-be9d-adb61ad8c0df,Journalism,1
+95af3e01-cead-4778-8155-29a986393ca7,Department,Telecommunications,Donald_P_Bellisario_College_of_Communications,College,0a3aefc6-c17a-429a-be9d-adb61ad8c0df,Telecommunications,1
+fe9c1614-fbd0-4c32-bd3d-be86a5f335c9,Department,Center for Science and the Schools (CSATS),College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Center_for_Science_and_the_Schools_(CSATS),1
+aead5302-2d51-47dd-a542-2f4d7fe0b197,Department,Professional Personnel Development Center (PPDC),College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Professional_Personnel_Development_Center_(PPDC),1
+066bd533-16ed-481b-89e8-917ca5ff8480,Department,Curriculum & Instruction,College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Curriculum_&_Instruction,1
+92fbec0d-66c1-47f4-bf2c-5ff1b072f7f0,Department,"Educational Psychology, Counseling, and Special Education",College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,"Educational_Psychology,_Counseling,_and_Special_Education",1
+5fe422ec-61b9-4f8d-bfe0-d66aa189d25b,Department,Education Policy Studies,College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Education_Policy_Studies,1
+942a5747-534a-4f60-adb0-9667f0370ffd,Department,Learning & Performance Systems,College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Learning_&_Performance_Systems,1
+47e133ad-5ead-4a57-ba95-cb3cbb41475a,Department,Institute for the Study of Adult Literacy (ISAL),College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,Institute_for_the_Study_of_Adult_Literacy_(ISAL),1
+94d72c94-32da-46aa-8486-39a17c2ae82c,Department,"Office of International Programs, College of Education",College_of_Education,College,f4d22926-7c93-460e-9dca-f7e4960dc574,"Office_of_International_Programs,_College_of_Education",1
+68b9221f-cc15-4c79-a655-be9624aa0449,Department,John and Willie Leone Department of Energy & Mineral Engineering (EME),College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,John_and_Willie_Leone_Department_of_Energy_&_Mineral_Engineering_(EME),1
+1256da3a-d6c4-41bb-8e9a-92b83bd5ebb4,Department,Department of Geography,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,Department_of_Geography,1
+d1fd7c37-f309-48e2-bde9-e2a6cd21d50d,Department,Department of Geosciences,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,Department_of_Geosciences,1
+33f5fb16-a25e-47ba-b54e-c70221932e6b,Department,Department of Meteorology and Atmospheric Science,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,Department_of_Meteorology_and_Atmospheric_Science,1
+6a29c85b-1423-48f3-8a3d-a695f66c730c,Department,Department of Materials Science and Engineering,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,Department_of_Materials_Science_and_Engineering,1
+0a6823a0-3edd-49e2-be37-71b6ad3d8b04,Department,John A. Dutton e-Education Institute,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,John_A_Dutton_e-Education_Institute,1
+8c07f352-671b-4347-9f9f-4604ba94ec4b,Department,Earth and Environmental Systems Institute,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,Earth_and_Environmental_Systems_Institute,1
+6d425b2a-0ed6-44cc-857f-e0b530d11204,Department,EMS Energy Institute,College_of_Earth_&_Mineral_Sciences,College,930f50d2-34a9-442f-8d90-3754e6e4b9a1,EMS_Energy_Institute,1
+2e8d410f-ab28-4d16-a2d3-22d3da1059a3,Department,Center for Nanotechnology Education and Utilization (CNEU),College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Center_for_Nanotechnology_Education_and_Utilization_(CNEU),1
+471072f9-6760-4170-93c8-7af8b0d2a43a,Department,Center for Engineering Outreach and Inclusion,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Center_for_Engineering_Outreach_and_Inclusion,1
+4697e0ec-265f-41ba-b564-e2cb8b2cae9a,Department,Leonhard Center,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Leonhard_Center,1
+281bdea3-7aac-498f-bce3-5817628ac97d,Department,Center for Neural Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Center_for_Neural_Engineering,1
+438981d4-4cce-40fc-a755-10d2456200d3,Department,Radiation Science & Engineering Center,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Radiation_Science_&_Engineering_Center,1
+543af9c5-633e-41c7-9152-5d0e48a76638,Department,Aerospace Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Aerospace_Engineering,1
+d82ff0c9-c83a-4203-8771-948173cfda7d,Department,Architectural Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Architectural_Engineering,1
+d68468dc-216f-4c8d-8580-55d85715ed57,Department,Biomedical Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Biomedical_Engineering,1
+a3b3585b-d7d7-424e-9ae1-67dc44579fd7,Department,Chemical Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Chemical_Engineering,1
+a6dc0350-8f23-4916-ae9a-fe835ffa4cd0,Department,Civil and Environmental Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Civil_and_Environmental_Engineering,1
+f8d61c8b-55e3-484f-87a1-f688589b98e8,Department,Leone Family Department of Energy and Mineral Engineering (EME),College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Leone_Family_Department_of_Energy_and_Mineral_Engineering_(EME),1
+27e5ae47-4fee-4097-9ba2-aa0802ed9ef5,Department,Marcus Department of Industrial and Manufacturing Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Marcus_Department_of_Industrial_and_Manufacturing_Engineering,1
+da464ca5-5da1-4256-9dd4-5105642fad78,Department,Mechanical and Nuclear Engineering,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Mechanical_and_Nuclear_Engineering,1
+d29be922-37f2-4b60-abb3-b6a1565763c7,Department,Engineering Science and Mechanics,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Engineering_Science_and_Mechanics,1
+d7d3d233-72dc-431c-a72c-5ef3538c846f,Department,Larson Pennsylvania Transportation Institute,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Larson_Pennsylvania_Transportation_Institute,1
+e99fcbec-818a-4b90-a04a-986d05696395,Department,Graduate Program in Acoustics,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,Graduate_Program_in_Acoustics,1
+318e294c-c608-4e49-883d-df17d1325eb9,Department,"School of Engineering Design, Technology, and Professional Programs",College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,"School_of_Engineering_Design,_Technology,_and_Professional_Programs",1
+ed41464b-a59b-4331-8054-13b18e33d03c,Department,School of Electrical Engineering and Computer Science,College_of_Engineering,College,47bf26c5-18c0-45d1-8aab-9f4597321764,School_of_Electrical_Engineering_and_Computer_Science,1
+c926bdb5-e6f0-4646-8da2-5402ed319da9,Department,Center For Healthy Aging,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Center_For_Healthy_Aging,1
+7721d7b3-6d49-4000-a24a-7cf2979eaab1,Department,Methodology Center,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Methodology_Center,1
+89da8091-1027-41a3-8067-20a1d009cb88,Department,Edna Bennett Pierce Prevention Research Center,Interdisciplinary_Institutes_and_Units,Interdisiplinary Research Units,d8f0fcd2-4a01-4ef4-af86-d2d01e2a3580,Edna_Bennett_Pierce_Prevention_Research_Center,1
+f79ff95e-9465-440b-a187-1e8397d58ade,Department,Biobehavioral Health,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Biobehavioral_Health,1
+ed447b14-0d5b-44df-b3c6-23c34e280948,Department,Communication Sciences and Disorders,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Communication_Sciences_and_Disorders,1
+9b46e343-5e3e-400d-abfe-408eddc79dce,Department,Human Development and Family Studies,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Human_Development_and_Family_Studies,1
+f210f9fb-2cb4-4748-b1b5-817b68c9231b,Department,Kinesiology,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Kinesiology,1
+146362e2-e0aa-4563-8025-ab17c0398fd0,Department,Nutritional Sciences,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Nutritional_Sciences,1
+84025f7f-6c10-446b-bedb-8865da619ffd,Department,"Recreation, Park and Tourism Management",College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,"Recreation,_Park_and_Tourism_Management",1
+0728877d-81e2-479e-bdfd-ea47cb4f1e84,Department,Health Policy and Administration,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,Health_Policy_and_Administration,1
+5c738c4e-7c99-481f-baae-7a13482bc669,Department,School of Hospitality Management,College_of_Health_&_Human_Development,College,0bab3c92-bbc2-478f-a85e-4c8e25cd0631,School_of_Hospitality_Management,1
+fdaf1422-3f99-4830-a522-210b55c13875,Department,Richards Civil War Era Center,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Richards_Civil_War_Era_Center,1
+7c64a52e-acc4-42da-aa1f-e6b149222477,Department,Justice Center for Research,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Justice_Center_for_Research,1
+312e7018-91bb-4650-9ee8-02ccb4521219,Department,Center for Language Acquisitions,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Center_for_Language_Acquisitions,1
+8aa55bd2-b1aa-4289-8c2f-88929d13c70e,Department,Department of African American Studies,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Department_of_African_American_Studies,1
+f58b2255-7e45-4be2-867c-49e170996d81,Department,Applied Linguistics,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Applied_Linguistics,1
+d708aceb-16ad-45ae-a8cd-3e5b617ecd7a,Department,Anthropology,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Anthropology,1
+bd78e68a-f0aa-4845-94ed-96bda1bbe66c,Department,Asian Studies,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Asian_Studies,1
+a5f3f64c-2d1d-4cb5-87ee-a16356c13db6,Department,Classics and Ancient Mediterranean Studies,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Classics_and_Ancient_Mediterranean_Studies,1
+60bac47d-b730-4dd3-a3ba-7bc08f821552,Department,Communication Arts and Sciences,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Communication_Arts_and_Sciences,1
+2bf7f33a-3112-4a43-a26b-634310ac2f9f,Department,Comparative Literature,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Comparative_Literature,1
+e9c2bce9-39ba-40ad-96b9-f3d637117e49,Department,Economics,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Economics,1
+4b7df56f-23ed-4e9b-8448-30b1a128c96c,Department,English,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,English,1
+bc31a27b-4593-43c7-9df4-82e51e892050,Department,French and Francophone Studies,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,French_and_Francophone_Studies,1
+b6659132-bf4f-43b4-9ae7-a03093baa7d1,Department,German and Slavic Languages and Literatures,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,German_and_Slavic_Languages_and_Literatures,1
+29d2b164-2134-4bd1-bf6c-9d24e2ce28bd,Department,History,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,History,1
+33833e2e-79ae-4d54-83e3-94f7b985bd40,Department,Philosophy,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Philosophy,1
+f9a871c4-b0cc-46a4-9a92-ccf4a1a3a85d,Department,Political Science,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Political_Science,1
+f3ebd910-8783-42f0-ad1f-ba760de1d08c,Department,Psychology,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Psychology,1
+6d936827-b0d5-40de-b35d-342d0b35fb7a,Department,"Spanish, Italian and Portuguese",College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,"Spanish,_Italian_and_Portuguese",1
+e5a1c5b5-5d83-411b-a31a-f1950de2cc98,Department,Sociology and Criminology,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Sociology_and_Criminology,1
+14f1ff8f-2113-4082-b98d-fd54709968a7,Department,"Women's, Gender and Sexuality Studies",College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,"Women's,_Gender_and_Sexuality_Studies",1
+bad529aa-a13b-41eb-9969-0ba6f6e8c4f9,Department,McCourtney Institute for Democracy,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,McCourtney_Institute_for_Democracy,1
+ca48f391-777b-4831-8f89-4ddf7a50050a,Department,Labor and Employment Relations,College_of_the_Liberal_Arts,College,a3528568-5c47-4da0-8411-4c451622a825,Labor_and_Employment_Relations,1
+d404bd58-b030-454f-8a33-aa5bae4de00f,Libraries,University Libraries - Penn State Law,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,University_Libraries_-_Penn_State_Law,1
+56f49d7b-fed3-4810-9e05-13d4a3a65e99,Libraries,Montague Law Library (Penn State Law),University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Montague_Law_Library_(Penn_State_Law),1
+acdcd96a-c7fd-4c5e-88d2-55141c6fb878,Department,Astronomy & Astrophysics,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Astronomy_&_Astrophysics,1
+dfc4b181-54ee-4d2a-8e64-1c47590d3ed2,Department,Biology,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Biology,1
+6d3354f6-fddd-4199-83a1-9732c3d6ca20,Department,Biochemistry & Molecular Biology,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Biochemistry_&_Molecular_Biology,1
+4dfbc1b7-29e4-4fb1-a24c-7db3bd43c0bf,Department,Chemistry,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Chemistry,1
+93a45dc2-dc89-4d87-bb08-fd89db295aea,Department,Mathematics,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Mathematics,1
+8444b94c-7b22-421e-baee-4fbf3743cdb5,Department,Physics,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Physics,1
+75fa7e9c-b0b5-4bfa-8c50-8564b6601617,Department,Statistics,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Statistics,1
+38f12882-b3f4-4fc9-9012-204ff3f26ee8,Department,Forensic Science Program,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Forensic_Science_Program,1
+4ca1ea4f-8478-423e-ba84-b96a65fa5a40,Department,Materials Characterization Lab,Materials_Research_Institute_(MRI),Interdisiplinary Research Units,159b0439-2029-4220-898b-60a7b9dce8d9,Materials_Characterization_Lab,1
+b8293eda-0c45-4123-9d46-76f2e5f02e26,Department,Nanofabrication Laboratory,Materials_Research_Institute_(MRI),Interdisiplinary Research Units,159b0439-2029-4220-898b-60a7b9dce8d9,Nanofabrication_Laboratory,1
+3ac1733e-9844-4ae5-b21e-a1ab31fa8fb8,Interdisiplinary Research Units,Electro-Optics Center (EOC),Applied_Research_Laboratory_(ARL),Interdisiplinary Research Units,5270f768-a58f-49ec-984c-0a85c1d135b1,Electro-Optics_Center_(EOC),1
+69906785-aa8b-492a-bd40-63a6de03fac7,Department,School of Science: Nursing Program (Behrend),School_of_Science_(Behrend),Department,937d604c-a16a-499d-80eb-bd6f931a343c,School_of_Science:_Nursing_Program_(Behrend),1
+3454a781-cee0-44ac-a149-4aeea415686d,College,College of Medicine (University Park),Penn_State_University_Park,Campus,63a0013d-7ac9-4007-bea5-fa60a60776f7,College_of_Medicine_(University_Park),1
+ed55bd4f-38dd-4e30-8ffb-1fb3641ccfd3,Libraries,Dubois Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Dubois_Campus_Library,1
+e07f755c-b630-4d97-ade1-e05879fdefd9,Libraries,Fayette Campus Library,University_Libraries,Campus,b8941105-e61a-4e4e-b9ec-efbf5c562e97,Fayette_Campus_Library,1
+21d85013-9cbb-4261-8bc0-7e2c8f22582b,Department,"Cancer Institute, Experimental Therapeutics",Penn_State_Cancer_Institute,Interdisiplinary Research Units,c9234067-389e-4de1-a5cb-91dbe0173964,"Cancer_Institute,_Experimental_Therapeutics",1
+c39609ae-0da6-4c44-9df4-81ba86cf65dd,Department,"Cancer Institute, Mechanisms of Carcinogenesis",Penn_State_Cancer_Institute,Interdisiplinary Research Units,c9234067-389e-4de1-a5cb-91dbe0173964,"Cancer_Institute,_Mechanisms_of_Carcinogenesis",1
+bb56255c-8b5f-4874-aba8-3377b5646e58,Department,"Cancer Institute, Population Health and Cancer Control",Penn_State_Cancer_Institute,Interdisiplinary Research Units,c9234067-389e-4de1-a5cb-91dbe0173964,"Cancer_Institute,_Population_Health_and_Cancer_Control",1
+37a8b533-69de-452b-b24d-9ec3be7586c8,Center,Population Research Institute,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Population_Research_Institute,1
+82cc1ad6-74ef-4341-9a5e-5f17c5276eaa,Center,Survey Research Center,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Survey_Research_Center,1
+2328540b-079a-4f18-b130-e84823f3b05a,Center,Clearinghouse for Military Family Readiness,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Clearinghouse_for_Military_Family_Readiness,1
+babbb5c6-865b-4e76-a0ca-f3434880a3fa,Center,Quantitative Developmental Systems Methodology Core,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Quantitative_Developmental_Systems_Methodology_Core,1
+b740b212-05e3-442e-a5af-3af9b0eb3702,Center,"Social, Life, and Engineering Sciences Imaging Center",Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,"Social,_Life,_and_Engineering_Sciences_Imaging_Center",1
+20054144-7b01-4c15-b600-fe9f7c8ef534,Center,Federal Statistical Research Data Center,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Federal_Statistical_Research_Data_Center,1
+f23a5860-e4a1-46d7-b918-b5b954536d88,Center,Center for Educational Disparities Research,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Center_for_Educational_Disparities_Research,1
+aa3381e9-7f22-431b-8f71-f105fb434378,Center,Child Maltreatment Solutions Network,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,Child_Maltreatment_Solutions_Network,1
+142d7888-d71a-4a48-9942-2624f6445521,Center,SSRI/PRI Computational and Spatial Analysis Core,Social_Science_Research_Institute_(SSRI),Interdisiplinary Research Units,726afca4-77c1-4859-bd5c-36abb8d7129a,SSRI/PRI_Computational_and_Spatial_Analysis_Core,1
+43a01d6b-b36e-48b4-8257-c39c5200a837,Center,Center for Computational Mathematics and Applications (CCMA),Mathematics,Department,93a45dc2-dc89-4d87-bb08-fd89db295aea,Center_for_Computational_Mathematics_and_Applications_(CCMA),1
+d91ab378-3254-44a1-bf16-cc7a9db0b980,Center,Center for Astrostatistics,Statistics,Department,75fa7e9c-b0b5-4bfa-8c50-8564b6601617,Center_for_Astrostatistics,1
+cdf86d17-0a09-4c2b-81ed-df8adeea527f,Center,Center for Interdisciplinary Mathematics,Mathematics,Department,93a45dc2-dc89-4d87-bb08-fd89db295aea,Center_for_Interdisciplinary_Mathematics,1
+719fcb45-f84b-4613-b0f4-f0666bdc2eeb,Center,Center for Dynamical Systems and Geometry,Mathematics,Department,93a45dc2-dc89-4d87-bb08-fd89db295aea,Center_for_Dynamical_Systems_and_Geometry,1
+23b2f0f8-6682-47e8-8779-df04c0c4bf21,Center,Center for Theoretical and Observational Cosmology,Institute_for_Gravitation_&_the_Cosmos,Interdisiplinary Research Units,457d2284-1520-4628-911d-45fd3a56300d,Center_for_Theoretical_and_Observational_Cosmology,1
+641596ff-344b-4ba1-bb40-c2bbebc3cf69,Center,Center for Particle and Gravitational Astrophysics,Institute_for_Gravitation_&_the_Cosmos,Interdisiplinary Research Units,457d2284-1520-4628-911d-45fd3a56300d,Center_for_Particle_and_Gravitational_Astrophysics,1
+457d2284-1520-4628-911d-45fd3a56300d,Interdisiplinary Research Units,Institute for Gravitation & the Cosmos,Eberly_College_of_Science,College,3ac727a3-e37a-4861-80ee-3143a3768077,Institute_for_Gravitation_&_the_Cosmos,1
+ce17034c-85c2-4a51-b4c1-fde623e0c9f1,Center,Center for Exoplanets & Habitable Worlds,Astronomy_&_Astrophysics,Department,acdcd96a-c7fd-4c5e-88d2-55141c6fb878,Center_for_Exoplanets_&_Habitable_Worlds,1
+1624c5e1-e58d-4e38-b948-5a67ca1ee0cc,Center,Center for Fundamental Theory,Institute_for_Gravitation_&_the_Cosmos,Interdisiplinary Research Units,457d2284-1520-4628-911d-45fd3a56300d,Center_for_Fundamental_Theory,1
+1d1111a1-54a1-4708-98ee-a20a69eb534e,Center,Center for Statistical Genetics,Statistics,Department,75fa7e9c-b0b5-4bfa-8c50-8564b6601617,Center_for_Statistical_Genetics,1
+f4736057-69f2-47e2-896b-fbb2870c3148,College,College of Medicine (Hershey),The_Pennsylvania_State_University,University,cd5cd203-da78-4b76-9600-f0aa474b456d,College_of_Medicine_(Hershey),1
+af780b40-b6c8-4597-88aa-ca3d152f6ca0,Department,Computer Science and Engineering,School_of_Electrical_Engineering_and_Computer_Science,Department,ed41464b-a59b-4331-8054-13b18e33d03c,Computer_Science_and_Engineering,1
+8492d378-874c-4b4f-8aa2-fc4cfd4abba8,Department,Electrical Engineering,School_of_Electrical_Engineering_and_Computer_Science,Department,ed41464b-a59b-4331-8054-13b18e33d03c,Electrical_Engineering,1
+1d14c6ea-df2d-4d16-856b-8305377886f8,Department,Institute for Personalized Medicine,College_of_Medicine_(Hershey),College,f4736057-69f2-47e2-896b-fbb2870c3148,Institute_for_Personalized_Medicine,1
