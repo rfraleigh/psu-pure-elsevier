@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.node circle {
+  fill: #999;
+}
+
+.node text {
+  font: 7px sans-serif;
+}
+
+.node--internal circle {
+  fill: black;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    font: 8px sans-serif;
+    font-weight:600;
+}
+
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.2;
+  stroke-width: 1px;
+}
+
+</style>
+<svg></svg>
+<script src="d3.v4.min.js"></script>
+<script>
+var width =document.body.clientWidth;
+var height =Math.max(window.innerHeight, document.body.clientHeight );
+var svg = d3.select("svg").attr('width',width).attr('height',height);
+    //width = +svg.attr("width"),
+   // height = +svg.attr("height");
+
+var g= svg.append("g").attr("transform", "translate(" + (width / 2 + 40) + "," + (height / 2 + 90) + ")");
+
+    svg.call(d3.zoom().on("zoom", function () {
+              g.attr("transform", d3.event.transform)
+      }));
+
+var stratify = d3.stratify()
+    .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
+
+var tree = d3.tree()
+    .size([2 * Math.PI, 600])
+    .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
+
+d3.csv("master_keywords_for_org.csv", function(error, data) {
+  if (error) throw error;
+
+  var root = tree(stratify(data));
+  var link = g.selectAll(".link")
+    .data(root.links())
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", d3.linkRadial()
+          .angle(function(d) { return d.x; })
+          .radius(function(d) { return d.y; }));
+
+  var node = g.selectAll(".node")
+    .data(root.descendants())
+    .enter().append("g")
+      .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
+      .attr("transform", function(d) { return "translate(" + radialPoint(d.x, d.y) + ")"; });
+
+  node.append("circle")
+      .attr("r", 2.5);
+
+  node.append("text")
+      .attr("dy", "0.31em")
+      .attr("x", function(d) { return d.x < Math.PI === !d.children ? 10 : -10; })//separation from circle to label
+      .attr("text-anchor", function(d) { return d.x < Math.PI === !d.children ? "start" : "end"; })
+      .attr("transform", function(d) { return "rotate(" + (d.x < Math.PI ? d.x - Math.PI / 2 : d.x + Math.PI / 2) * 180 / Math.PI + ")"; })
+      //.text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1); });
+      .text(function(d) {return d.data.name; });
+
+  d3.selectAll('g.node.node--internal text')
+      .call(wrap,75)
+});
+
+
+function radialPoint(x, y) {
+  return [(y = +y) * Math.cos(x -= Math.PI / 2), y * Math.sin(x)];
+}
+
+function wrap(text, width,offset) {
+  text.each(function() {
+    var text = d3.select(this),
+        offset =d3.select(this)['_groups'][0][0].attributes['x'].value,
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.1, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", offset).attr("y", y).attr("dy", dy + "em");
+                //console.log(d3.select(this)['_groups'][0][0].attributes);
+
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop();
+        tspan.text(line.join(" "));
+        line = [word];
+        tspan = text.append("tspan").attr("x", offset).attr("y", 2*y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word);
+      }
+    }
+  });
+}
+
+</script>
